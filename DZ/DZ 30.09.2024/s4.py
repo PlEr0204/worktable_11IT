@@ -9,5 +9,6 @@ while a!="END!":
         else: 
             ans[m[i]]+=1
     a=input()
-print(*ans, sep="\n")
-
+m1=ans.keys()
+for x in m1:
+    print(x, ans[x])
