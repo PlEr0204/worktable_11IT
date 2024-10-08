@@ -1,0 +1,9 @@
+can 2
+i 2
+girl! 1
+go; 1
+he 1
+jump! 1
+jump: 1
+she? 1
+want 1
